@@ -1,0 +1,46 @@
+.counterCircl{
+    padding-top: 1em;
+    padding-bottom: 3em;
+    background-color: #fff;
+    text-align: center;
+}
+
+.counterCircl .outsideCircl{
+    border-radius: 50%;
+    background-color: #26a69a;
+    color: #FFF;
+    display: inline-block;
+    position: relative;
+    height: 10em;
+    width: 10em;
+    margin: 2em;
+}
+
+.contentCircl{
+    top: 3em;
+    position: relative;
+}
+
+.contentCircl p{
+    font-size: 3em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.counter h2{
+    font-size: 2em;
+    color: #666;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.counter h3{
+    padding: 0px;
+    margin:0px;
+    font-size: 1em;
+    color: #AAA;
+    text-align: center;
+    width: 100%;
+}

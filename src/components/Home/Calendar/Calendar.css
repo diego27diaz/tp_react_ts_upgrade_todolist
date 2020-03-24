@@ -1,0 +1,41 @@
+.calendar{
+    padding: 2em;
+    background-color: #2196F3;
+    color: #FFF;
+    text-align: center;
+}
+
+.calendar h2{
+    font-size: 2em;
+    color: #FFF;
+    width: 100%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.calendar h3{
+    padding: 0px;
+    margin:0px;
+    font-size: 1em;
+    color: #FFF;
+    text-align: center;
+    width: 100%;
+}
+
+.calendarContent{
+    padding: 2em 0em;
+    text-align: center;
+}
+
+.btnAddCalendar{
+    padding: 1em;
+    border: 1px solid #FFF;
+    margin: 1em;
+    display: block;
+    cursor: pointer;
+}
+
+.btnAddCalendar:hover{
+    background-color: #FFF;
+    color: #000;
+}

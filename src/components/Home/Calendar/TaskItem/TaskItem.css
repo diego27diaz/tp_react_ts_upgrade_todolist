@@ -1,0 +1,70 @@
+.taskItem{
+    padding: 1em;
+    display: inline-block;
+    width: 20%;
+    color: #000000;
+}
+
+.itemContent{
+    background-color: #FFF;
+    padding:1em;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px #666;
+}
+
+.title{
+    font-size: 1.5em;
+}
+
+.date{
+    font-size: 0.8em;
+}
+
+.status{
+    font-size: 1em;
+}
+
+.severity{
+    background-color: #FFF;
+    width: 100%;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-bottom: 1px solid #000;
+}
+
+.open{
+    margin-top: 1em;
+    display: block;
+    padding: 0.5em;
+    color: #FFF;
+    font-weight: 700;
+    background-color: #f44336!important;
+}
+
+.finished{
+    margin-top: 1em;
+    display: block;
+    padding: 0.5em;
+    color: #FFF;
+    font-weight: 700;
+    background-color: #9E9E9E!important;
+}
+
+.inprogress{
+    margin-top: 1em;
+    display: block;
+    padding: 0.5em;
+    color: #FFF;
+    font-weight: 700;
+    background-color: #00E676!important;
+}
+
+.closed{
+    margin-top: 1em;
+    display: block;
+    padding: 0.5em;
+    color: #FFF;
+    font-weight: 700;
+    background-color: #795548!important;
+}

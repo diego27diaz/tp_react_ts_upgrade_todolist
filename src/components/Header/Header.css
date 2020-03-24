@@ -1,0 +1,47 @@
+.header{
+  background-color: #FFF;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  color: #666;
+  padding: 1em;
+  border-bottom: 1px solid #666;
+}
+
+.header span{
+  font-size: 40px;
+  display: inline;
+  margin-left: 0.5em;
+  vertical-align: bottom;
+}
+
+.links{
+  float: right;
+  padding: 20px;
+  margin-right: 2em;
+}
+
+.links a{
+  padding: 0.2em;
+  margin: 0.3em;
+  display: inline;
+  color: #666;
+  text-decoration: none;
+}
+
+.links a:hover{
+  color: #AAA;
+  font-weight: 700;
+  transition-duration: 200ms;
+}
+
+.breadcrumbs{
+  padding: 1em;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.logo{
+  width: 40px;
+  height: 40px;
+}

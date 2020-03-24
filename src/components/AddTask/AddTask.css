@@ -1,0 +1,25 @@
+.formAdd{
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.main h2{
+  background-color: #666;
+  font-size: 2em;
+  color: #FFF;
+  text-align: center;
+  padding: 1em;
+}
+
+.formAdd input, .formAdd select, .formAdd button, .formAdd label{
+  padding: 10px;
+  margin: 0 auto;
+  font-size: 1em;
+  width: 300px;
+  display: block;
+}
+
+.formAdd{
+  padding-bottom: 2em;
+}
